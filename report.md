@@ -15,3 +15,11 @@ I hope everyone has a lovely day.
 
 
 #Now i am changing things
+
+##Look for markdown syntax
+
+[all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
+How do i add an image?
+[Alt text](\\lib-homes.library.uq.edu.au\uqhwoodm\My Pictures\Graphics)
+
