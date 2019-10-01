@@ -21,5 +21,5 @@ I hope everyone has a lovely day.
 [all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
 How do i add an image?
-[Alt text](\\lib-homes.library.uq.edu.au\uqhwoodm\My Pictures\Graphics)
+![moneybags](https://www.gmcrafts.co.uk/wp-content/uploads/2018/11/Pink-Unicorn-With-Rainbow-Main-Product-Image.jpg)
 
