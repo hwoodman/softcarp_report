@@ -14,3 +14,4 @@ I hope everyone has a lovely day.
 * I learnt how R is very similar to the Python scripting
 
 
+#Now i am changing things
